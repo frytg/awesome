@@ -17,28 +17,33 @@ A curated yet so far unsorted list of awesome tools and packages.
 * [shields.io](https://shields.io/) - Create SVG badges for README files
 * [Sourcetree](https://www.sourcetreeapp.com/) - Basically a nice UI for GIT on Mac and Windows
 * [Postman](https://www.getpostman.com/) - When working with APIs, this one will be your partner in crime
+* [Hyper](https://hyper.is/) - What Atom is for text editing is Hyper for CLI
 
 
 ## Communication
 
 * [Slack](https://slack.com) - Pointing out the obvious, but it's still awesome and hosts a lot of groups for all sorts of problems
 * [Flow](https://www.getflow.com/) - Online project management in a minimal Kanban-ish view
+* [Twitter](https://twitter.com/FRYTG) - Still the best platform
 
-## Cloud Tools
+## Server/Cloud Tools
 
-t.b.a.
-
-## Monitoring
-
-* [Stackdriver](https://cloud.google.com/stackdriver/) - Central hub for all activities within GCP plus integrated custom metrics
-* [yLogger](https://npmjs.com/package/ylogger) - Self-written tool to easily integrate [Google Cloud Logging](https://cloud.google.com/logging/) into microservices (useful along with [yPush](https://github.com/frytg/yPush))
+* [Google Kubernetes Engine](https://cloud.google.com/kubernetes/) - Host services without the hassle of hosting. Autoscales.
+* [Nginx](https://www.nginx.com/) - Better, faster, stronger than Apache
+* Monitoring:
+  * [Stackdriver](https://cloud.google.com/stackdriver/) - Central hub for all activities within GCP plus integrated custom metrics
+  * [yLogger](https://npmjs.com/package/ylogger) - Self-written tool to easily integrate [Google Cloud Logging](https://cloud.google.com/logging/) into microservices (useful along with [yPush](https://github.com/frytg/yPush))
 
 ## Everyday Node
 
+* [Yarn](https://yarnpkg.com/en/) - The better way to `npm install`
 * [EJS](https://github.com/mde/ejs) - Great templating engine for fast microsites
+* [Fetch](https://npmjs.com/package/node-fetch) - Good alternative to [_request_](https://www.npmjs.com/package/request), supports promises, fast, reliable
 * [Socket.io](https://github.com/socketio/socket.io) - Build your own Websocket service
 * [Moment](https://github.com/moment/moment/) - Feature-rich way to parse and display time and date
 * [PM2](https://github.com/Unitech/pm2) - When running Node projects locally or VM server, PM2 keeps them runing
+* [Google Cloud Functions](https://cloud.google.com/functions/) - Host Node services without the hassle of hosting node services
+
 
 ## Traditional CMS
 
@@ -61,3 +66,5 @@ t.b.a.
 ## On the list to check out
 
 * https://github.com/TryGhost/Ghost
+* https://www.algolia.com/
+* lot's more fancy frameworks...
