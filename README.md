@@ -1,11 +1,14 @@
 # Awesome Tools
 
-A curated yet so far unsorted list of awesome tools and packages.
+A curated, yet so far unsorted list of awesome tools and packages.
 
 * [Development Apps and Tools](#Development-Apps-and-Tools)
 * [Communication](#Communication)
-* [Cloud Tools](#Cloud-Tools)
-* [Monitoring](#Monitoring)
+* [Cloud Tools](#Server-Cloud-Tools)
+* [Everyday Node](#Everyday-Node)
+* [Traditional CMS](#Traditional-CMS)
+* [Front End](#Front-End)
+* [More Awesome-ness](#More-Awesome-ness)
 
 
 ## Development Apps and Tools
