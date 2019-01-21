@@ -64,7 +64,7 @@ A curated, yet so far unsorted list of awesome tools and packages.
 ## More Awesome-ness
 
 * [ebu/awesome](https://github.com/ebu/awesome-broadcasting) - Awesome list of awesome tools for broadcasting
-* [node JS](https://github.com/sindresorhus/awesome-nodejs) - Lots of Node projects and tools
+* [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - Lots of Node projects and tools
 
 ## On the list to check out
 
