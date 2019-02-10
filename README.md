@@ -28,6 +28,13 @@ A curated, yet so far unsorted list of awesome tools and packages.
 * [Slack](https://slack.com) - Pointing out the obvious, but it's still awesome and hosts a lot of groups for all sorts of problems
 * [Flow](https://www.getflow.com/) - Online project management in a minimal Kanban-ish view
 * [Twitter](https://twitter.com/FRYTG) - Still the best platform
+* [Github Project boards](https://help.github.com/articles/about-project-boards/) - Simple but effective Kanban-style boards for Github Issues
+
+## Everyday snippets
+* [Everyday Javascript snippets](https://gist.github.com/frytg/1569998cf58dcaba8b6f5d6490d17048) - From Unix Time to for loops
+* [Everyday Docker](https://gist.github.com/frytg/93c5f1b83c95156c1515e8082399fb32) - Deploy and cleanup
+* [Everyday Expo (React framwork)](https://gist.github.com/frytg/4040d6c31ebc0ed0086638a2ff986a90) - dev mode and such
+* [Everyday Google Cloud](https://gist.github.com/frytg/8fc5d1a2ad0313e0ee13d9cf8a38c6e4) - Deploy indexes, set caching, pull logs, and more
 
 ## Server/Cloud Tools
 
@@ -59,7 +66,8 @@ A curated, yet so far unsorted list of awesome tools and packages.
 * [JS Compress](https://jscompress.com/) - Compresses JS code
 * [CSS Minifier](https://cssminifier.com/) - Compresses CSS code
 * [Metatags](https://metatags.io/) - Check HTML metadata and preview platforms
-
+* [DateTime Picker](https://eonasdan.github.io/bootstrap-datetimepicker/) - jQuery- and momentJs-based DateTime Picker with loads of options
+* [Bootstrap](https://getbootstrap.com/) - It has its ups and downs but fits a nice purpose, especially for basic grid tech
 
 ## More Awesome-ness
 
