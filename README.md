@@ -74,12 +74,15 @@ A curated, yet so far unsorted list of awesome tools and packages.
 
 * [Twitter](https://about.twitter.com/en_us/company/brand-resources.html) - All brand ressources
 * [Instagram](https://en.instagram-brand.com/assets/icons) - App icon and logos
+* [Github](https://github.com/logos) - Logo and usage
 * [Snapchat](https://support.snapchat.com/en-GB/a/ghost-logo-usage) - 👻
-* [Spotify](https://developer.spotify.com/branding-guidelines/) - Logo, Colors and Guidelines
+* [Spotify](https://developer.spotify.com/branding-guidelines/) - Logo, colors and Guidelines
 * [Telegram](https://en.wikipedia.org/wiki/File:Telegram_logo.svg) - Logo in wikipedia
 * [Google Logo](https://www.google.com/permissions/logos-trademarks/) - Logo and brand guides
 * [Google YouTube](https://www.youtube.com/yt/about/brand-resources/#logos-icons-colors) - Logo and brand ressources
-* [Google Assistant](https://developers.google.com/actions/policies/branding-policies) - "works with" logos
+* [Google Assistant](https://developers.google.com/actions/policies/branding-policies) - "_works with_" logos (Alt: [Partner Marketing Hub](https://partnermarketinghub.withgoogle.com/#/brands/0B3zHSY8q1PlVWk9uaWJadDVPZmM/1vIVLgya6y6hfgAsOlx1KRZWDRRbf1Jm6Oo2Cwvb-QRo))
+* [Google Cloud Logos](https://cloud.google.com/press/) - Basic cloud logos (Alt: [Cloud Connect](https://www.cloudconnect.goog/))
+* [Google Cloud Icons](https://cloud.google.com/icons/) - Cloud icons and architecture diagrams
 
 ## More Awesome-ness
 
