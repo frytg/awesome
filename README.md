@@ -70,6 +70,17 @@ A curated, yet so far unsorted list of awesome tools and packages.
 * [Bootstrap](https://getbootstrap.com/) - It has its ups and downs but fits a nice purpose, especially for basic grid tech
 * [Inter Font](https://rsms.me/inter/) - Great Helvetica/SF-style font with lots of options
 
+## Brand guidelines
+
+* [Twitter](https://about.twitter.com/en_us/company/brand-resources.html) - All brand ressources
+* [Instagram](https://en.instagram-brand.com/assets/icons) - App icon and logos
+* [Snapchat](https://support.snapchat.com/en-GB/a/ghost-logo-usage) - 👻
+* [Spotify](https://developer.spotify.com/branding-guidelines/) - Logo, Colors and Guidelines
+* [Telegram](https://en.wikipedia.org/wiki/File:Telegram_logo.svg) - Logo in wikipedia
+* [Google Logo](https://www.google.com/permissions/logos-trademarks/) - Logo and brand guides
+* [Google YouTube](https://www.youtube.com/yt/about/brand-resources/#logos-icons-colors) - Logo and brand ressources
+* [Google Assistant](https://developers.google.com/actions/policies/branding-policies) - "works with" logos
+
 ## More Awesome-ness
 
 * [ebu/awesome](https://github.com/ebu/awesome-broadcasting) - Awesome list of awesome tools for broadcasting
