@@ -68,6 +68,7 @@ A curated, yet so far unsorted list of awesome tools and packages.
 * [Metatags](https://metatags.io/) - Check HTML metadata and preview platforms
 * [DateTime Picker](https://eonasdan.github.io/bootstrap-datetimepicker/) - jQuery- and momentJs-based DateTime Picker with loads of options
 * [Bootstrap](https://getbootstrap.com/) - It has its ups and downs but fits a nice purpose, especially for basic grid tech
+* [Inter Font](https://rsms.me/inter/) - Great Helvetica/SF-style font with lots of options
 
 ## More Awesome-ness
 
