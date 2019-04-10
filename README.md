@@ -7,7 +7,8 @@ A curated, yet so far unsorted list of awesome tools and packages.
 * [Cloud Tools](#Server-Cloud-Tools)
 * [Everyday Node](#Everyday-Node)
 * [Traditional CMS](#Traditional-CMS)
-* [Front End](#Front-End)
+* [Front End Web stuff](#Front-End-web-stuff)
+* [Design Tools](#Design-Tools)
 * [More Awesome-ness](#More-Awesome-ness)
 
 
@@ -59,7 +60,7 @@ A curated, yet so far unsorted list of awesome tools and packages.
 
 * [Craft CMS](http://craftcms.com) - Great very customisable CMS. Paid but worth it.
 
-## Front End
+## Front End Web stuff
 
 * [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - I use this all the time when I'm stuck with display: flex;
 * [Skeleton Grid](http://getskeleton.com/#grid) - Very light, very easy, very useful.
@@ -68,6 +69,9 @@ A curated, yet so far unsorted list of awesome tools and packages.
 * [Metatags](https://metatags.io/) - Check HTML metadata and preview platforms
 * [DateTime Picker](https://eonasdan.github.io/bootstrap-datetimepicker/) - jQuery- and momentJs-based DateTime Picker with loads of options
 * [Bootstrap](https://getbootstrap.com/) - It has its ups and downs but fits a nice purpose, especially for basic grid tech
+
+## Design Tools
+
 * [Inter Font](https://rsms.me/inter/) - Great Helvetica/SF-style font with lots of options
 * [iA Fonts](https://github.com/iaolo/iA-Fonts) - Open sourced versions of the popular apps' fonts.
 
