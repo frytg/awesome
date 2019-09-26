@@ -18,17 +18,16 @@ A curated, yet so far unsorted list of awesome tools and packages.
   * [city-lights-ui](https://atom.io/themes/city-lights-ui) - Visually great theme along with [city-lights-syntax](https://atom.io/themes/city-lights-syntax)
   * [file-icons](https://atom.io/packages/file-icons) - Does what it says. File Icons.
   * [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus) - Great little live-refresh markdown preview.
-* [shields.io](https://shields.io/) - Create SVG badges for README files
-* [Sourcetree](https://www.sourcetreeapp.com/) - Basically a nice UI for GIT on Mac and Windows
 * [Postman](https://www.getpostman.com/) - When working with APIs, this one will be your partner in crime
 * [Hyper](https://hyper.is/) - What Atom is for text editing is Hyper for CLI
+* [Sourcetree](https://www.sourcetreeapp.com/) - Basically a nice UI for GIT on Mac and Windows
+* [shields.io](https://shields.io/) - Create SVG badges for README files
 
 
 ## Communication
 
 * [Slack](https://slack.com) - Pointing out the obvious, but it's still awesome and hosts a lot of groups for all sorts of problems
-* [Flow](https://www.getflow.com/) - Online project management in a minimal Kanban-ish view
-* [Twitter](https://twitter.com/FRYTG) - Still the best platform
+* [Twitter](https://twitter.com/FRYTG) - Still the best platform for everything
 * [Github Project boards](https://help.github.com/articles/about-project-boards/) - Simple but effective Kanban-style boards for Github Issues
 
 ## Everyday snippets
@@ -44,21 +43,25 @@ A curated, yet so far unsorted list of awesome tools and packages.
 * Monitoring:
   * [Stackdriver](https://cloud.google.com/stackdriver/) - Central hub for all activities within GCP plus integrated custom metrics
   * [yLogger](https://npmjs.com/package/ylogger) - Self-written tool to easily integrate [Google Cloud Logging](https://cloud.google.com/logging/) into microservices (useful along with [yPush](https://github.com/frytg/yPush))
+* [Algolia](https://algolia.com) - Powerful cloud-based search engine
+* [Github Actions](https://github.com/features/actions) - Powerful CI/CD engine right in Github
 
 ## Everyday Node
 
 * [Yarn](https://yarnpkg.com/en/) - The better way to `npm install`
 * [EJS](https://github.com/mde/ejs) - Great templating engine for fast microsites
-* [Fetch](https://npmjs.com/package/node-fetch) - Good alternative to [_request_](https://www.npmjs.com/package/request), supports promises, fast, reliable
+* [Node Fetch](https://npmjs.com/package/node-fetch) - Good alternative to [_request_](https://www.npmjs.com/package/request), supports promises, fast, reliable
 * [Socket.io](https://github.com/socketio/socket.io) - Build your own Websocket service
 * [Moment](https://github.com/moment/moment/) - Feature-rich way to parse and display time and date
-* [PM2](https://github.com/Unitech/pm2) - When running Node projects locally or VM server, PM2 keeps them runing
+* [PM2](https://github.com/Unitech/pm2) - When running Node projects locally or on VM server, PM2 keeps them runing
 * [Google Cloud Functions](https://cloud.google.com/functions/) - Host Node services without the hassle of hosting node services
+* [Google Cloud Run](https://cloud.google.com/run/) - Host stateless containers without any hassle (now even supports custom domains with SSL)
 
 
 ## Traditional CMS
 
 * [Craft CMS](http://craftcms.com) - Great very customisable CMS. Paid but worth it.
+* [Strapi](https://github.com/strapi/strapi) - Easy way to generate an API with this open-source CMS
 
 ## Front End Web stuff
 
@@ -92,10 +95,11 @@ A curated, yet so far unsorted list of awesome tools and packages.
 ## More Awesome-ness
 
 * [ebu/awesome](https://github.com/ebu/awesome-broadcasting) - Awesome list of awesome tools for broadcasting
+* [awesome-ARD](https://github.com/ard-aktuell/awesome-ARD) - List of tools, repos and APIs within the ARD
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - Lots of Node projects and tools
+* [awesome-actions](https://github.com/sdras/awesome-actions) - Ressource for Github Actions integrations
 
 ## On the list to check out
 
 * https://github.com/TryGhost/Ghost
-* https://www.algolia.com/
 * lot's more fancy frameworks...
